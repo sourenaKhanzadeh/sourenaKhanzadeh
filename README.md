@@ -8,6 +8,9 @@ In addition to my own projects, I'm also an active member of the open-source com
 Thank you for visiting my GitHub page. I hope you find my projects and contributions useful and inspiring.
 
 Visit my github page: https://sourenaKhanzadeh.github.io 
+
+![snake gif](https://github.com/sourenaKhanzadeh/sourenaKhanzadeh/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **sourenaKhanzadeh/sourenaKhanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
