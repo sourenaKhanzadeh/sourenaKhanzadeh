@@ -12,6 +12,7 @@ Visit my github page: https://sourenaKhanzadeh.github.io
 ![snake gif](https://github.com/sourenaKhanzadeh/sourenaKhanzadeh/blob/output/github-contribution-grid-snake.gif)
 [![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourenaKhanzadeh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourenaKhanzadeh&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Suren's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourenaKhanzadeh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sourenaKhanzadeh/sourenaKhanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
