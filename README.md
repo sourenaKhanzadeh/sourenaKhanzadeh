@@ -13,6 +13,39 @@ Visit my github page: https://sourenaKhanzadeh.github.io
 [![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourenaKhanzadeh&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourenaKhanzadeh&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Surens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourenaKhanzadeh)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/sourenaKhanzadeh)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sourenaKhanzadeh)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/sourenaKhanzadeh)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/sourenaKhanzadeh)
+
+
+
+
+<details>
+<p align="center">
+  <a href="https://github.com/sourenaKhanzadeh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourenaKhanzadeh&theme=transparent" />
+  </a>
+  <a href="https://github.com/sourenaKhanzadeh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourenaKhanzadeh&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/sourenaKhanzadeh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourenaKhanzadeh&theme=transparent" />
+  </a>
+  <a href="https://github.com/sourenaKhanzadeh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourenaKhanzadeh&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/sourenaKhanzadeh">
+    <img src="https://komarev.com/ghpvc/?username=sourenaKhanzadeh&color=blue&style=flat)" />
+  </a>
+</p>
+
 <!--
 **sourenaKhanzadeh/sourenaKhanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
