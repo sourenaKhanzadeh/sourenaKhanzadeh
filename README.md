@@ -9,7 +9,7 @@ Thank you for visiting my GitHub page. I hope you find my projects and contribut
 
 Visit my github page: https://sourenaKhanzadeh.github.io 
 
-![snake gif](https://github.com/sourenaKhanzadeh/sourenaKhanzadeh/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sourenaKhanzadeh/sourenaKhanzadeh/blob/output/github-contribution-grid-snake.svg)
 [![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourenaKhanzadeh&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourenaKhanzadeh&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Surens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourenaKhanzadeh)](https://github.com/anuraghazra/github-readme-stats)
