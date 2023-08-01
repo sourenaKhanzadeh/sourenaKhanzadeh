@@ -1,10 +1,9 @@
-name: Generate Datas
+name: Generate Snake
 
 on: push
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
+  #schedule: # execute every 12 hours
+  #  - cron: "* */12 * * *"
+  #workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
