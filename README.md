@@ -7,7 +7,7 @@ In addition to my own projects, I'm also an active member of the open-source com
 
 Thank you for visiting my GitHub page. I hope you find my projects and contributions useful and inspiring.
 
-Visit my github page: https://skhanzad.github.io 
+Visit my github page: https://sourena-khanzadeh.com
 
 ![snake gif](https://github.com/skhanzad/skhanzad/blob/output/ocean.svg)
 [![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=skhanzad&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
