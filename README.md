@@ -8,7 +8,6 @@ Thank you for visiting my GitHub page. I hope you find my projects and contribut
 Visit my github page: https://sourena-khanzadeh.com
 
 ![snake gif](https://github.com/skhanzad/skhanzad/blob/output/ocean.svg)
-![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=skhanzad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ### Languages
